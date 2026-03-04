@@ -120,7 +120,7 @@ http://localhost:8080/api/students
 
 ## API Output in Browser
 
-<img width="960" height="224" src="https://github.com/user-attachments/assets/3eb8ca85-5599-4d6a-a326-057e16995711" />
+
 <img width="960" height="218" src="https://github.com/user-attachments/assets/6a59a914-f681-4d5a-a7a3-15816cb0a2b5" />
 
 ---
