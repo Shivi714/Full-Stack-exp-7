@@ -126,7 +126,7 @@ http://localhost:8080/api/students
 
 ## 📄 Example API Response
 
-<img width="721" height="232" src="https://github.com/user-attachments/assets/3a7feeac-120e-467d-a2ad-5333f17dc7d6" />
+
 
 Example JSON Response
 
@@ -150,7 +150,7 @@ Example JSON Response
 
 ## 📬 Postman Testing
 
-<img width="960" height="503" src="https://github.com/user-attachments/assets/069234ee-9359-4aeb-a8ce-b715a41f27f6" />
+<img width="721" height="232" src="https://github.com/user-attachments/assets/3a7feeac-120e-467d-a2ad-5333f17dc7d6" />
 
 ---
 
