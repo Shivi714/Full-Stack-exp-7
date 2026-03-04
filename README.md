@@ -116,8 +116,10 @@ http://localhost:8080/api/students
 ---
 
 ## 📷 Output
+<img width="960" height="224" alt="{B29ADCD3-07D0-4F04-998E-667BFEDD58F9}" src="https://github.com/user-attachments/assets/3eb8ca85-5599-4d6a-a326-057e16995711" />
 
 Example API Response:
+<img width="721" height="232" alt="{3288CA47-B2FB-4CE1-AD3B-B2EB116341A5}" src="https://github.com/user-attachments/assets/3a7feeac-120e-467d-a2ad-5333f17dc7d6" />
 
 ```
 [
@@ -129,7 +131,8 @@ Example API Response:
 ]
 ```
 
-(Add screenshot here)
+<img width="960" height="218" alt="{E3030E3E-986C-4402-A8FE-4B4A81AB05E9}" src="https://github.com/user-attachments/assets/6a59a914-f681-4d5a-a7a3-15816cb0a2b5" />
+
 
 ---
 
