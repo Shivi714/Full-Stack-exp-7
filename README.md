@@ -145,8 +145,7 @@ Example JSON Response
 
 ## Empty Database Response
 
-<img width="745" height="391" src="https://github.com/user-attachments/assets/9d244f6d-a30b-4249-813b-c4f364ef88ce" />
-<img width="960" height="218" src="https://github.com/user-attachments/assets/6a59a914-f681-4d5a-a7a3-15816cb0a2b5" />
+
 <img width="960" height="224" src="https://github.com/user-attachments/assets/3eb8ca85-5599-4d6a-a326-057e16995711" />
 
 ---
