@@ -160,8 +160,7 @@ Example JSON Response
 
 ## Spring Boot Server Running
 
-<img width="960" height="218" src="https://github.com/user-attachments/assets/6a59a914-f681-4d5a-a7a3-15816cb0a2b5" />
-
+<img width="745" height="391" src="https://github.com/user-attachments/assets/9d244f6d-a30b-4249-813b-c4f364ef88ce" />
 ---
 
 ## Git Repository Push
