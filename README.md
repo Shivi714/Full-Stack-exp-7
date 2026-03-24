@@ -190,7 +190,7 @@ Example JSON Response
 
 <img width="960" height="503" src="https://github.com/user-attachments/assets/069234ee-9359-4aeb-a8ce-b715a41f27f6" />
 
----
+1zw---
 
 ## 🚀 Spring Boot Server Running
 
