@@ -1,4 +1,4 @@
-# Spring Boot Student CRUD API
+<img width="570" height="425" alt="{41C4400B-D565-4D32-8D3A-96836CD548A5}" src="https://github.com/user-attachments/assets/41665f7b-f2e4-4a95-8b31-cf1cf04e2873" /># Spring Boot Student CRUD API
 
 ## 📌 Project Description
 
@@ -28,7 +28,7 @@ The API allows users to:
 ## 📁 Project Structure
 
 ```
-exp-7
+exp-8
 │
 ├── controller
 │   └── StudentController.java
@@ -67,18 +67,26 @@ server.port=8080
 
 ```
 GET /api/students
+<img width="569" height="450" alt="{2E1BF817-02DF-446F-BFC0-7C326F5E4E16}" src="https://github.com/user-attachments/assets/dfedbcc3-b781-4ba3-8997-b64023c9ada1" />
+
+
 ```
 
-### 2️⃣ Get Student by ID
+### 2️⃣ POST (Add Student)
 
 ```
 GET /api/students/{id}
+<img width="571" height="432" alt="{DCE4625B-61D6-4BFD-AF39-3C510124C575}" src="https://github.com/user-attachments/assets/2e28db31-e1ae-416f-90c0-e9d4295c798d" />
+
+
 ```
 
 ### 3️⃣ Add Student
 
 ```
 POST /api/students
+<img width="900" height="403" alt="{BFCB82B7-A445-4947-8E41-AB3C3A8A3326}" src="https://github.com/user-attachments/assets/cc3ec1b1-03af-4bb9-bf30-e95bfff1f42d" />
+
 ```
 
 Example Request JSON
@@ -89,6 +97,17 @@ Example Request JSON
 "email": "shivali@gmail.com"
 }
 ```
+### 3️⃣ GET by ID
+<img width="570" height="425" alt="{41C4400B-D565-4D32-8D3A-96836CD548A5}" src="https://github.com/user-attachments/assets/5fa18ec4-df8b-409c-b6e8-3a780ba0bfb1" />
+
+---
+### PUT (Update Student)
+<img width="565" height="429" alt="{B365C28A-E291-454B-9F39-956146ABB578}" src="https://github.com/user-attachments/assets/7999c4d6-d181-4923-82e1-650c238e61ea" />
+
+---
+### DELETE Student
+
+<img width="572" height="422" alt="{1A3B8309-3F24-4BC3-83E0-550698551A2B}" src="https://github.com/user-attachments/assets/166c2798-5d37-47f9-b1ee-413c1994fa76" />
 
 ---
 
