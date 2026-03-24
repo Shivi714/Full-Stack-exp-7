@@ -1,4 +1,4 @@
-<img width="570" height="425" alt="{41C4400B-D565-4D32-8D3A-96836CD548A5}" src="https://github.com/user-attachments/assets/41665f7b-f2e4-4a95-8b31-cf1cf04e2873" /># Spring Boot Student CRUD API
+# Spring Boot Student CRUD API
 
 ## 📌 Project Description
 
