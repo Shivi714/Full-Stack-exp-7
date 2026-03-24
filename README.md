@@ -134,15 +134,6 @@ DELETE /api/students/{id}
 
 ---
 
-## 🔹 GET by ID
-
-```
-GET /api/students/{id}
-```
-
-<img width="570" height="425" src="https://github.com/user-attachments/assets/5fa18ec4-df8b-409c-b6e8-3a780ba0bfb1" />
-
----
 
 # 📷 Output Screenshots
 
