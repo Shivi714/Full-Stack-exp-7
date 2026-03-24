@@ -63,29 +63,42 @@ server.port=8080
 
 ## 🔗 API Endpoints
 
-### 1️⃣ Get All Students
-
-```
-GET /api/students
-<img width="569" height="450" alt="{2E1BF817-02DF-446F-BFC0-7C326F5E4E16}" src="https://github.com/user-attachments/assets/dfedbcc3-b781-4ba3-8997-b64023c9ada1" />
+###  STEP 1: Check Empty (GET)
 
 
-```
-
-### 2️⃣ POST (Add Student)
-
-```
-GET /api/students/{id}
-<img width="571" height="432" alt="{DCE4625B-61D6-4BFD-AF39-3C510124C575}" src="https://github.com/user-attachments/assets/2e28db31-e1ae-416f-90c0-e9d4295c798d" />
+<img width="565" height="350" alt="{7DEFEF17-42D3-43E9-AC2F-884642FC8CDB}" src="https://github.com/user-attachments/assets/7a90140d-76e9-4c2e-accb-d1215e21ab72" />
 
 
 ```
 
-### 3️⃣ Add Student
+###  STEP 2: POST (Add Student)
+```
+<img width="570" height="426" alt="{0A976E8E-C47E-4BDF-AD31-4AF68ED1386B}" src="https://github.com/user-attachments/assets/a6b8b543-c91e-4230-ab5b-65b5a230d752" />
+
+```
+### STEP 3: GET (Check Data)
+```
+<img width="566" height="477" alt="{277996D4-A61C-44AD-884B-3463053733DA}" src="https://github.com/user-attachments/assets/e9159e85-8641-4bf8-9977-4abdb69d2f06" />
+```
+###  STEP 4: PUT (Update Student)
 
 ```
 POST /api/students
-<img width="900" height="403" alt="{BFCB82B7-A445-4947-8E41-AB3C3A8A3326}" src="https://github.com/user-attachments/assets/cc3ec1b1-03af-4bb9-bf30-e95bfff1f42d" />
+
+<img width="565" height="460" alt="{465014D8-B22A-4B06-9603-88316AF1A209}" src="https://github.com/user-attachments/assets/1859ac76-c983-4918-98d2-95f820ea5d3c" />
+
+```
+
+STEP 5: GET (Check Update)
+```
+
+<img width="570" height="455" alt="{73F6BA4E-CEF8-43DD-B158-254660F93D9E}" src="https://github.com/user-attachments/assets/c9f9d931-db47-471a-af44-e80dd2df72cc" />
+
+```
+
+STEP 6: DELETE Student
+```
+<img width="561" height="390" alt="{1DC4C1BE-BA35-41B8-BA17-2E3C5E991CC6}" src="https://github.com/user-attachments/assets/d6593aad-8b9a-46a7-a56c-1fdb050c4421" />
 
 ```
 
